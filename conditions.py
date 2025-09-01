@@ -19,3 +19,6 @@ n, m = 1, 2
 if((n > 2 and
     n != m) or n == m):
   n += 1
+
+# string usage
+print(f"name: { n }")
