@@ -1,0 +1,15 @@
+| Python DS             | Java DS                                             | Def                                           |
+| --------------------- | --------------------------------------------------- | --------------------------------------------- |
+| `list`                | `ArrayList`, `LinkedList`                           | ordered, mutable collection.                  |
+| `tuple`               | `List.of(...)`, `Arrays.asList(...)`, or `Record`   | immutable, ordered DS                         |
+| `set`                 | `HashSet`, `TreeSet`                                | unique set.                                   |
+| `dict`                | `HashMap`, `TreeMap`                                | (key-value) .                                 |
+| `str`                 | `String`                                            | (immutable)                                  |
+| `bytes`               | `byte[]`, `ByteBuffer`                              | (binary) data.                                |
+| `queue.Queue`         | `LinkedList`, `ArrayDeque`, `PriorityQueue`         | FIFO queue.                                   |
+| `collections.deque`   | `ArrayDeque`                                        | (deque).                                      |
+| `heapq`               | `PriorityQueue`, `Heap`                             | (min-heap).                                   |
+| `collections.Counter` | `HashMap` or `Map<K, Integer>`                      | member numbers                                |
+| `set()`               | `HashSet`                                           | unique collection.                            |
+| `frozenset()`         | `Set.of(...)`                                       | immutable set.                                |
+| `range()`             | `for (int i=0; i<n; i++)` loop                      | numerical range (iterator-like).              |

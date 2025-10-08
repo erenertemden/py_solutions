@@ -1,0 +1,22 @@
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE configs
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db

@@ -20,6 +20,8 @@ print(my_list)
 
 my_list.append("new item")  # Add element
 
+my_list.insert(1, "inserted item")  # Insert element at index 1
+
 print(my_list)
 
 my_list.remove(3)  # Remove element
